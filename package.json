@@ -1,0 +1,25 @@
+{
+  "name": "dai--node-js---pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julietaIzbicki/dai--Node-js---pg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julietaIzbicki/dai--Node-js---pg/issues"
+  },
+  "homepage": "https://github.com/julietaIzbicki/dai--Node-js---pg#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5"
+  }
+}
