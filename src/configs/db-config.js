@@ -1,6 +1,6 @@
 const config = {    
     host        : "localhost",    
-    database    : "pg1",    
+    database    : "daiProvi",    
     user        : "postgres",    
     password    : "root",    
     port        : 5432 
